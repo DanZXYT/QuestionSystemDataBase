@@ -1,0 +1,16 @@
+[
+    {
+        "questionText": "¿Cuál es la capital de Francia?",
+        "options": ["Madrid", "París", "Londres", "Berlín"],
+        "correctOptionIndex": 1,
+        "imageName": "sampleImage",
+        "category": "Geografía"
+    },
+    {
+        "questionText": "¿Cuál es el planeta más cercano al sol?",
+        "options": ["Marte", "Venus", "Mercurio", "Tierra"],
+        "correctOptionIndex": 2,
+        "imageName": "planetaMercurio",
+        "category": "Ciencia"
+    }
+]
